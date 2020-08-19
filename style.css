@@ -1,0 +1,34 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: base;
+}
+
+.container-fluid{
+	margin: 90px;
+
+}
+ .main_body{
+ 	min-width: 0px;
+ 	width: 100%;
+ }
+
+.jumbotron{
+	font-size: 1.2rem;
+}
+
+ .sidebar{
+ 	width: 25rem;
+ 	height: 40rem;
+ 	font-size: 1.2rem;
+ }
+
+ .sidebar-heading{
+ 	padding: :9px;
+ }
+
+ .list-group-items{
+ 	padding: 20px;
+ }
+
